@@ -1,0 +1,24 @@
+#BlueJ package file
+objectbench.height=136
+objectbench.width=758
+package.editor.height=331
+package.editor.width=660
+package.editor.x=405
+package.editor.y=179
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+target1.editor.height=700
+target1.editor.width=900
+target1.editor.x=445
+target1.editor.y=199
+target1.height=50
+target1.name=KnightTour
+target1.showInterface=false
+target1.type=ClassTarget
+target1.typeParameters=
+target1.width=100
+target1.x=170
+target1.y=30

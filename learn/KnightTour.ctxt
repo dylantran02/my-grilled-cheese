@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KnightTour()
+comment1.params=x\ y
+comment1.target=boolean\ isSafe(int,\ int)
+comment2.params=
+comment2.target=void\ printSolution()
+comment3.params=x\ y\ movei\ xMove\ yMove
+comment3.target=boolean\ solveKTUtil(int,\ int,\ int,\ int[],\ int[])
+comment4.params=
+comment4.target=int\ solveKnightTour()
+comment5.params=arg
+comment5.target=void\ main(java.lang.String[])
+numComments=6
